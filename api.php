@@ -1,0 +1,1 @@
+<?xml version="1.0"?><rsd><error code="internal_api_error_DBConnectionError" info="[fb4be2aa] Exception Caught: DB connection error: Can&#039;t connect to local MySQL server through socket &#039;/var/run/mysqld/mysqld.sock&#039; (111 &quot;Connection refused&quot;) (localhost)" /></rsd>
